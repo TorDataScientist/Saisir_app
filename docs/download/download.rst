@@ -9,4 +9,4 @@
 
   `alpha.1.0`_:現在いくつかの不具合を確認しています。
 
-.. _alpha1.0: https://www.dropbox.com/sh/al8pw3wo55f8826/AAC4iu-soYZL5RWLGqtxoRSYa?dl=0
+.. _alpha.1.0: https://www.dropbox.com/sh/al8pw3wo55f8826/AAC4iu-soYZL5RWLGqtxoRSYa?dl=0
