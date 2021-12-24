@@ -53,4 +53,19 @@ Saisirは分析手法など専門的な知識を必要とせず、簡単な操�
     /howto/read-file
     /howto/analyze
 
+分析のコツ
+---------
+
+Saisirで分析をする際にcsvデータなどの用意が必要になります。
+
+データの形が整っていないと分析もうまくは行きません。
+
+データの成型を行っていない方は Tips から確認してみてください。
+
+.. toctree::
+    :maxdepth: 2
+    :hidden:
+    :caption: Tips
+
+    /tips/csv
 
