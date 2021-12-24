@@ -26,7 +26,7 @@ Saisirはcsvデータを分析し、顧客の購買傾向をつかむGUIアプ�
 
 Saisirはローカル環境で実行するアプリケーションになります。
 
-まずは:doc:`ダウンロード <download/download>` をお読みいただきアプリケーションのダウンロードを行ってください。
+ダウンロードしていない方、最新バージョンをダウンロードする方は :doc:`ダウンロード <download/download>` からアプリケーションのダウンロードを行ってください。
 
 .. toctree::
     :maxdepth: 2
@@ -52,10 +52,5 @@ Saisirは分析手法など専門的な知識を必要とせず、簡単な操�
     /howto/set-info
     /howto/read-file
     /howto/analyze
-
-ご要望
-------
-
-今後の
 
 
